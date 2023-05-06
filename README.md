@@ -4,7 +4,11 @@ Hi 👋 My name is Andrei Tarasov
 Frontend Developer
 ------------------
 
-I've been working in different fields of web development for 9 years. Strong knowledge of frontend development. I work with React.js, Node.js, Typescript. I know how to design client applications that will be fast and reliable.
+Hi, I'm Andrei Tarasov, a frontend developer with a passion for the JavaScript ecosystem and the React framework. I have experience building user interfaces for startups, government companies, and extensive enterprise businesses.
+
+I specialize in using React to build single-page applications (SPAs), and I have experience working with a variety of tools and technologies, including Redux, Typescript, and GraphQL.
+
+If you're interested in discussing a frontend project or just connecting with me, feel free to reach out!
 
 * 🌍  I'm based in Cyprus
 * ✉️  You can contact me at [tarasov.a.dev@gmail.com](mailto:tarasov.a.dev@gmail.com)
