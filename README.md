@@ -10,7 +10,7 @@ I specialize in using React to build single-page applications (SPAs), and I have
 
 If you're interested in discussing a frontend project or just connecting with me, feel free to reach out!
 
-* 🌍  I'm based in Cyprus
+* 🌍  I'm based in Georgia
 * ✉️  You can contact me at [tarasov.a.dev@gmail.com](mailto:tarasov.a.dev@gmail.com)
 
 ### Skills
